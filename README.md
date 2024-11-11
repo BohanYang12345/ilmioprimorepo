@@ -6,3 +6,4 @@ ciao ciao ciao
 ## fermate della metro di milano
 ### metro gialla 
 - comasina
+- affori fn
