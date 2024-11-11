@@ -7,3 +7,4 @@ ciao ciao ciao
 ### metro gialla 
 - comasina
 - affori fn
+- affori centro
