@@ -8,3 +8,4 @@ ciao ciao ciao
 - comasina
 - affori fn
 - affori centro
+- dergano
