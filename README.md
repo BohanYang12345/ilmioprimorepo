@@ -13,7 +13,7 @@ ciao ciao ciao
 - zara
 - sondrio
 - centrale fs
--
+- repubblica
 -
 -
 -
