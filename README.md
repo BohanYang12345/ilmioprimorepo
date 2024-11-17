@@ -18,3 +18,8 @@ ciao ciao ciao
 - montenapoleone
 - duomo
 - missori
+- crocetta
+-
+-
+-
+-
