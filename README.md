@@ -20,6 +20,6 @@ ciao ciao ciao
 - missori
 - crocetta
 - porta romana
--
+- lodi
 -
 -
