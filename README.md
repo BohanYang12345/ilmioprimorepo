@@ -24,3 +24,4 @@ ciao ciao ciao
 - lima
 - loreto
 - pasteur
+- rovoreto
