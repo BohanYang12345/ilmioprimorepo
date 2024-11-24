@@ -29,3 +29,4 @@ ciao ciao ciao
 - gorla
 - precotto
 - villa s.giovanni
+- sesto marelli
