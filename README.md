@@ -15,6 +15,7 @@ ciao ciao ciao
 - centrale fs
 ### metro verde
 - caiazzo
+- loreto
 -
 -
 
