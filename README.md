@@ -21,6 +21,7 @@ ciao ciao ciao
 - udine
 - cimiano
 - crescenzago
+- cascina gobba
 
 
 
