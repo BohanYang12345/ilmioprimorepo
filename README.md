@@ -27,3 +27,4 @@ ciao ciao ciao
 - rovoreto
 - turro
 - gorla
+- precotto
