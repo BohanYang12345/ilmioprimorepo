@@ -18,4 +18,6 @@ ciao ciao ciao
 - loreto
 - piola
 - lambrate fs
+- udine
+
 
