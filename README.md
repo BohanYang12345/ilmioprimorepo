@@ -30,3 +30,4 @@ ciao ciao ciao
 - precotto
 - villa s.giovanni
 - sesto marelli
+- sesto rondo
