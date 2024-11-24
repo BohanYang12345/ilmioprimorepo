@@ -26,3 +26,4 @@ ciao ciao ciao
 - pasteur
 - rovoreto
 - turro
+- gorla
