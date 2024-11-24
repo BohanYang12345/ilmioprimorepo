@@ -22,3 +22,4 @@ ciao ciao ciao
 - palestro
 - p.ta venezia
 - lima
+- loreto
