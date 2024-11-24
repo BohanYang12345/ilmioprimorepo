@@ -19,3 +19,16 @@ ciao ciao ciao
 - duomo
 ### metro rossa
 - san babila
+- palestro
+- p.ta venezia
+- lima
+- loreto
+- pasteur
+- rovoreto
+- turro
+- gorla
+- precotto
+- villa s.giovanni
+- sesto marelli
+- sesto rondo
+- sesp 1maggio fs
